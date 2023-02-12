@@ -1,0 +1,8 @@
+#Sun Feb 12 21:26:22 CET 2023
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///users/Etu8/28603668/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams2='M\u00E9thodes de Repertoire' {ec15a8f5-a6f4-496e-85c9-7bcd3e390c37} Standard.ClassDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///users/Etu8/28603668/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///users/Etu8/28603668/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams1='Diagramme de UIPersonne' {f54eda2b-0b73-49de-810e-c4fcbbd9e008} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='Diagramme de Repertoire' {54c452ba-4524-4f7a-8acb-24223150a040} Standard.ClassDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///users/Etu8/28603668/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right

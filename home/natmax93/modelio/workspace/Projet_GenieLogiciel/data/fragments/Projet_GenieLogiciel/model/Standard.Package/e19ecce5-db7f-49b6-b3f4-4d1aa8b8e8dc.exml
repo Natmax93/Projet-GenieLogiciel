@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="repertoire" version="4">
+  <OBJECT>
+    <ID name="repertoire" mc="Standard.Package" uid="e19ecce5-db7f-49b6-b3f4-4d1aa8b8e8dc"/>
+    <PID name="TME3" mc="Standard.Package" uid="c6475f6b-a191-4004-a9c3-bed7d57bdc44"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[repertoire]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="UIRepertoire" mc="Standard.Class" uid="05d5959a-6080-4f3a-8d37-2b48712f0b57"/>
+        <COMPID name="MyAssistant" mc="Standard.Class" uid="9733cd74-2af1-4b04-bcde-d9f0c2a13b13"/>
+        <COMPID name="UIMenuActionListener" mc="Standard.Class" uid="b90dfe93-d992-4cd7-81c3-5a8373c9f50c"/>
+        <COMPID name="Personne" mc="Standard.Class" uid="846ba453-5662-4c2e-a831-e8ea95591e8e"/>
+        <COMPID name="Adresse" mc="Standard.Class" uid="679deab1-4258-48d7-b4ac-1993e2dac47a"/>
+        <COMPID name="Repertoire" mc="Standard.Class" uid="ce07ff24-2afe-496d-986a-08e5257d38ff"/>
+        <COMPID name="UIPersonne" mc="Standard.Class" uid="79149797-0934-4702-8de2-2e995b6706de"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

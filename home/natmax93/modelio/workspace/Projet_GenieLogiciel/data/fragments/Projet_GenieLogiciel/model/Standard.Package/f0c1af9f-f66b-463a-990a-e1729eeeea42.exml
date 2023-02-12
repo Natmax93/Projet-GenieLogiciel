@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="projet_genielogiciel" version="4">
+  <OBJECT>
+    <ID name="projet_genielogiciel" mc="Standard.Package" uid="f0c1af9f-f66b-463a-990a-e1729eeeea42"/>
+    <PID name="Projet_GenieLogiciel" mc="Standard.Project" uid="8e434841-951a-40d1-b54c-e60d2deadfc6"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[projet_genielogiciel]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="TME3" mc="Standard.Package" uid="c6475f6b-a191-4004-a9c3-bed7d57bdc44"/>
+        <COMPID name="ReverseOriginal" mc="Standard.Package" uid="bca89951-c6bc-4f95-b3ec-d31479b9dae7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

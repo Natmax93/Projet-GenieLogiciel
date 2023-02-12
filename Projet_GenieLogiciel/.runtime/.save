@@ -1,0 +1,9 @@
+#Sun Feb 12 15:43:36 CET 2023
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///users/Etu8/28603668/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams3='Q5' {a90c2677-23d6-4b2d-9f3f-7b3e7e39d332} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='Q4-Donn\u00E9es' {36768717-5d3f-47a2-a040-7f7d97b9363e} Standard.ClassDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///users/Etu8/28603668/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///users/Etu8/28603668/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams1='Q3-InterfaceGraphique' {bfe7e1a5-d0d7-4ff3-b5a0-a9b081dbd90c} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='Q2-Totalite' {44e369e4-6a0a-45ee-9840-a15275b94289} Standard.ClassDiagram
+org.modelio.app.module.propertytab.JavaDesigner\ v3.10.00\ GModule\ @file\:///users/Etu8/28603668/.modelio/4.1/modules/JavaDesigner_3.10.00/JavaDesigner_3.10.00.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
